@@ -1,0 +1,6 @@
+a{text-decoration: none;border: red solid 2px;border-radius: 50px; background-color: red}
+a:hover{background-color: green;pointer-events: painted}
+.qq{float: right}
+input{background-color: grey}
+
+
